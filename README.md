@@ -44,7 +44,7 @@ I also have experience with **Python**, **Git**, **Arduino/IoT** and am currentl
 - Location    →  Rio de Janeiro, Brazil
 - Education   →  Ibmec — Computer Engineering
 - Tools       →  Python · Arduino · Git · VS Code
-- Languages   →  Portuguese (native) · Spanish (Advanced) · English (intermediate)
+- Languages   →  Portuguese (native) · Spanish (Advanced) · English (Advanced)
 
 ---
 
