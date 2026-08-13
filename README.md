@@ -13,7 +13,7 @@
 <!-- CONTACT -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/santiago-andreiu-b95a78258/))
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-andreiu-b95a78258/)
 
 </div>
 
@@ -72,8 +72,19 @@ I also have experience with **Python**, **Git**, **Arduino/IoT** and am currentl
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ladymnria&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladymnria&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=santiago-andreiu&theme=vision-friendly-dark"/>
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact&theme=vision-friendly-dark"/>
+
+
+</div>
+
+---
+
+## 📜 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santiago-andreiu&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/santiago-andreiu)
 
 </div>
 
