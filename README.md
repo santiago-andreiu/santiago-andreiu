@@ -84,7 +84,7 @@ I also have experience with **Python**, **Git**, **Arduino/IoT** and am currentl
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santiago-andreiu&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/santiago-andreiu)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santiago-andreiu&theme=high-contrast)](https://github.com/santiago-andreiu/github-readme-activity-graph)
 
 </div>
 
