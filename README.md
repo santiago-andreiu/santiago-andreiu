@@ -73,7 +73,7 @@ I also have experience with **Python**, **Git**, **Arduino/IoT** and am currentl
 <br/><br/>
 
 <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=santiago-andreiu&theme=vision-friendly-dark"/>
-<img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=santiago-andreiu&layout=compact&theme=vision-friendly-dark"/>
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=santiago-andreiu&theme=vision-friendly-dark&layout=compact"/>
 
 
 </div>
